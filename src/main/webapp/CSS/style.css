@@ -1,0 +1,78 @@
+@charset "ISO-8859-1";
+
+
+#bodys{
+	
+	background-color: rgb(240, 247, 230);
+	margin:0px;
+	padding:0px;
+	height: 30.5em;
+}
+.bd{
+	padding-top:3px;
+	background: url("derriere.png") no-repeat;
+	margin-bottom: Opx;
+}
+#bod{
+	padding-left:70px;
+	margin-bottom: Opx;
+}
+.liens{
+	color:black;
+	background:white ;
+	height: 4em;
+	padding-left:10px;
+
+}
+.logo{
+	padding-top: -10px;	
+}
+.log{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.liens a{
+	text-decoration: none;
+	color:black;
+	font-weight: bold;	
+}
+
+header{
+	padding:0px;
+	margin: 0px;
+	background-color: #efecec;
+}
+.barre{
+	background: black;
+	width: 10px;
+	height: 20px;
+}
+.center{
+	color:orange;
+}
+.perfect{
+	color:red;
+}
+.first{
+	padding:140px 10px 50px 120px;
+	
+	
+}
+.second{
+	padding:70px 30px 50px 120px;
+	
+}
+.about a{
+	text-decoration: none;
+	color:white;
+}
+.mot{
+	font-family: "Arial Black";
+}
+footer{
+	margin-top:0;
+	height: 250px;
+	background-color: rgb(0, 0, 0,0.5);
+}
+
+
